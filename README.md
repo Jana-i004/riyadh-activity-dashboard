@@ -29,7 +29,7 @@ Unlike generic datasets, this project is **Saudi-focused** and reflects actual p
 * Environmental conditions like dust storms
 
 This makes the analysis more **realistic, relevant, and actionable**.
-
+Live dashboard : https://riyadh-activity-dashboard-389j5hgsyap7hahpeyhjew.streamlit.app/
 ---
 
 ## 🔍 Key Insights
