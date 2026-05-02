@@ -1,55 +1,59 @@
 # Riyadh City Activity Dashboard 🇸🇦
 
-An interactive data-driven dashboard analyzing real-world activity patterns in **Riyadh, Saudi Arabia**, using local behavioral and environmental factors.
+### 🔗 Live Dashboard
+
+👉 https://riyadh-activity-dashboard-389j5hgsyap7hahpeyhjew.streamlit.app/
 
 ---
 
 ## 📊 Overview
 
-This project explores **what drives activity levels in Riyadh** by analyzing daily data across multiple dimensions:
+An interactive data-driven dashboard analyzing real-world activity patterns in **Riyadh, Saudi Arabia**, using local behavioral and environmental factors.
+
+This project explores what drives activity levels in Riyadh by analyzing:
 
 * 🎉 Scheduled Events
 * ⚽ Football Matches
-* 💰 Salary Timing (around payday cycles)
+* 💰 Salary Timing (payday cycles)
 * 📅 Weekends vs Weekdays
 * 🎊 Public Holidays
 * 🌦 Weather Conditions (Rain, Dust, Fog, Stable)
 
-The results are presented through an **interactive Streamlit dashboard** designed for clarity, usability, and real-world insight.
+The results are presented through a **clear, interactive Streamlit dashboard** designed for real-world insights.
 
 ---
 
 ## 🇸🇦 Why This Project Matters
 
-Unlike generic datasets, this project is **Saudi-focused** and reflects actual patterns specific to Riyadh:
+Unlike generic datasets, this project is **Saudi-focused** and reflects real behavior patterns in Riyadh:
 
 * Salary behavior around the 27th of each month
-* Local weekend structure (Thursday–Saturday)
-* High impact of events and entertainment seasons
-* Environmental conditions like dust storms
+* Local weekend structure
+* Impact of entertainment seasons and events
+* Environmental factors like dust storms
 
-This makes the analysis more **realistic, relevant, and actionable**.
-Live dashboard : https://riyadh-activity-dashboard-389j5hgsyap7hahpeyhjew.streamlit.app/
+This makes the analysis **realistic, relevant, and actionable**.
+
 ---
 
 ## 🔍 Key Insights
 
 ### 1. Events are the strongest driver of activity
 
-Scheduled events consistently produce the **highest activity levels** in the city.
+Scheduled events consistently produce the **highest activity levels**.
 
 ---
 
 ### 2. Matches and weekends significantly increase activity
 
 * Match days show clear spikes
-* Weekends naturally boost movement and engagement
+* Weekends naturally boost movement
 
 ---
 
 ### 3. Salary timing impacts behavior
 
-Activity increases **around payday**, especially in the days immediately after.
+Activity increases **around payday**, especially in the days after.
 
 ---
 
@@ -57,13 +61,13 @@ Activity increases **around payday**, especially in the days immediately after.
 
 * Stable weather dominates (~80% of days)
 * Dust and rain are less frequent
-* However, **when they occur, they still influence activity patterns**
+* However, when they occur, they still affect activity
 
 ---
 
 ### 5. Not all factors are equal
 
-Some factors occur often but have low impact, while others are rare but powerful.
+Some factors are **frequent but weak**, while others are **rare but powerful**.
 
 ---
 
@@ -72,20 +76,10 @@ Some factors occur often but have low impact, while others are rare but powerful
 * Feature engineering from real-world data
 * Translating raw data into **behavioral insights**
 * Building an **interactive dashboard for decision-making**
-* Distinguishing between:
+* Understanding the difference between:
 
   * Frequency (how often something happens)
   * Impact (how much it affects behavior)
-
----
-
-## 🚀 Live Dashboard
-
-👉 Add your Streamlit link here after deployment:
-
-```
-https://your-app.streamlit.app
-```
 
 ---
 
@@ -100,22 +94,21 @@ https://your-app.streamlit.app
 
 ## 📂 Dataset
 
-https://www.kaggle.com/datasets/mohamedsamy16/saudi-arabia-events-and-crowding-impact-dataset
+🔗 https://www.kaggle.com/datasets/mohamedsamy16/saudi-arabia-events-and-crowding-impact-dataset
 
-The dataset was cleaned and engineered to reflect realistic conditions in Riyadh, including:
+The dataset was cleaned and engineered to reflect Riyadh-specific conditions, including:
 
 * Event tagging
 * Match schedules
 * Weather classification
 * Salary cycle features
 * Activity scoring model
-  
 
 ---
 
 ## 🎯 Project Goal
 
-To answer one main question:
+To answer one key question:
 
 > **What actually drives activity in Riyadh?**
 
@@ -128,6 +121,11 @@ And present the answer in a **clear, visual, and interactive way**.
 * Add real traffic or mobility data
 * Integrate real-time weather APIs
 * Enhance prediction using machine learning
+
+---
+
+Built with focus on clarity, insight, and real-world relevance.
+
 
 ---
 
