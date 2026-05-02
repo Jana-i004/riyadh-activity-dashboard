@@ -1,148 +1,89 @@
-# Riyadh City Activity Dashboard 🇸🇦
+## Riyadh Activity Insights Dashboard 🇸🇦
 
-### 🔗 Live Dashboard
+---
 
+## 🔗 Live Dashboard  
 👉 https://riyadh-activity-dashboard-389j5hgsyap7hahpeyhjew.streamlit.app/
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview  
 
-<img width="1710" height="979" alt="Screenshot 1447-11-15 at 9 49 27 PM" src="https://github.com/user-attachments/assets/e69981bf-1c3a-409a-88c3-d86e65ff1317" />
+<img width="1710" height="979" alt="Screenshot 1447-11-15 at 9 49 27 PM" src="https://github.com/user-attachments/assets/88f3e462-02b0-4587-bed8-940ee0cee517" />
 
+<img width="1710" height="981" alt="Screenshot 1447-11-15 at 9 49 53 PM" src="https://github.com/user-attachments/assets/35469add-bb89-472b-988a-b5f35b382c3b" />
 
-### Activity Drivers
-
-<img width="1710" height="981" alt="Screenshot 1447-11-15 at 9 49 53 PM" src="https://github.com/user-attachments/assets/178b295a-1083-4ac5-a356-d4f34da37c27" />
-
-
-### Weather Analysis
-
-<img width="1710" height="980" alt="Screenshot 1447-11-15 at 9 50 14 PM" src="https://github.com/user-attachments/assets/35556133-eb75-4c2a-8139-73b533002c84" />
-
+<img width="1710" height="980" alt="Screenshot 1447-11-15 at 9 50 14 PM" src="https://github.com/user-attachments/assets/12cdbdef-a874-43f6-afdd-ffdf687ed5ce" />
 
 ---
 
-## 📊 Overview
-
-An interactive data-driven dashboard analyzing real-world activity patterns in **Riyadh, Saudi Arabia**, using local behavioral and environmental factors.
-
-This project explores what drives activity levels in Riyadh by analyzing:
-
-* 🎉 Scheduled Events
-* ⚽ Football Matches
-* 💰 Salary Timing (payday cycles)
-* 📅 Weekends vs Weekdays
-* 🎊 Public Holidays
-* 🌦 Weather Conditions (Rain, Dust, Fog, Stable)
-
-The results are presented through a **clear, interactive Streamlit dashboard** designed for real-world insights.
+## 📊 Overview  
+An interactive dashboard analyzing real-world activity patterns in Riyadh using behavioral and environmental factors.  
+The goal is to identify what truly drives activity and transform raw data into clear, actionable insights.
 
 ---
 
-## 🇸🇦 Why This Project Matters
-
-Unlike generic datasets, this project is **Saudi-focused** and reflects real behavior patterns in Riyadh:
-
-* Salary behavior around the 27th of each month
-* Local weekend structure
-* Impact of entertainment seasons and events
-* Environmental factors like dust storms
-
-This makes the analysis **realistic, relevant, and actionable**.
+## 🎯 Key Drivers Analyzed  
+- Events & entertainment  
+- Football matches  
+- Salary cycles (payday behavior)  
+- Weekends vs weekdays  
+- Public holidays  
+- Weather conditions  
 
 ---
 
-## 🔍 Key Insights
-
-### 1. Events are the strongest driver of activity
-
-Scheduled events consistently produce the **highest activity levels**.
-
----
-
-### 2. Matches and weekends significantly increase activity
-
-* Match days show clear spikes
-* Weekends naturally boost movement
+## 🔍 Key Insights  
+- Events are the strongest driver of activity  
+- Match days and weekends significantly increase movement  
+- Activity increases around salary periods  
+- Weather is less frequent but still impactful  
+- High-frequency factors are not always high-impact  
 
 ---
 
-### 3. Salary timing impacts behavior
-
-Activity increases **around payday**, especially in the days after.
-
----
-
-### 4. Weather is not frequent, but still impactful
-
-* Stable weather dominates (~80% of days)
-* Dust and rain are less frequent
-* However, when they occur, they still affect activity
+## 🧠 What This Project Demonstrates  
+- Data cleaning and preprocessing  
+- Feature engineering from real-world data  
+- Building an end-to-end data workflow  
+- Developing interactive dashboards using Streamlit  
+- Translating data into business and behavioral insights  
 
 ---
 
-### 5. Not all factors are equal
-
-Some factors are **frequent but weak**, while others are **rare but powerful**.
-
----
-
-## 🧠 What This Project Demonstrates
-
-* Feature engineering from real-world data
-* Translating raw data into **behavioral insights**
-* Building an **interactive dashboard for decision-making**
-* Understanding the difference between:
-
-  * Frequency (how often something happens)
-  * Impact (how much it affects behavior)
+## 🛠 Tech Stack  
+- Python  
+- Pandas  
+- Streamlit  
+- Plotly  
 
 ---
 
-## 🛠 Tech Stack
-
-* Python
-* Pandas
-* Streamlit
-* Plotly
-
----
-
-## 📂 Dataset
-
-🔗 https://www.kaggle.com/datasets/mohamedsamy16/saudi-arabia-events-and-crowding-impact-dataset
+## 📂 Dataset  
+👉 https://www.kaggle.com/datasets/mohamedsamy16/saudi-arabia-events-and-crowding-impact-dataset  
 
 The dataset was cleaned and engineered to reflect Riyadh-specific conditions, including:
-
-* Event tagging
-* Match schedules
-* Weather classification
-* Salary cycle features
-* Activity scoring model
-
----
-
-## 🎯 Project Goal
-
-To answer one key question:
-
-> **What actually drives activity in Riyadh?**
-
-And present the answer in a **clear, visual, and interactive way**.
+- Event tagging  
+- Match schedules  
+- Weather classification  
+- Salary cycle features  
+- Activity scoring model  
 
 ---
 
-## 💡 Future Improvements
-
-* Add real traffic or mobility data
-* Integrate real-time weather APIs
-* Enhance prediction using machine learning
+## 🎯 Project Goal  
+To answer one key question:  
+**What actually drives activity in Riyadh?**
 
 ---
 
-Built with focus on clarity, insight, and real-world relevance.
+## 🚀 Future Improvements  
+- Integrate real-time data (APIs)  
+- Add traffic and mobility datasets  
+- Enhance predictions using machine learning  
+- Improve scalability and automation  
 
 ---
 
-Built with focus on clarity, insight, and real-world relevance.
+## 💡 Notes  
+Built with a focus on clarity, real-world relevance, and data-driven decision making.
