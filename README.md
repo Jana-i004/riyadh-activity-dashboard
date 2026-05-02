@@ -100,6 +100,7 @@ https://your-app.streamlit.app
 
 ## 📂 Dataset
 
+https://www.kaggle.com/datasets/mohamedsamy16/saudi-arabia-events-and-crowding-impact-dataset
 The dataset was cleaned and engineered to reflect realistic conditions in Riyadh, including:
 
 * Event tagging
@@ -107,6 +108,7 @@ The dataset was cleaned and engineered to reflect realistic conditions in Riyadh
 * Weather classification
 * Salary cycle features
 * Activity scoring model
+  
 
 ---
 
