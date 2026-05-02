@@ -6,6 +6,23 @@
 
 ---
 
+## 📸 Dashboard Preview
+
+<img width="1710" height="979" alt="Screenshot 1447-11-15 at 9 49 27 PM" src="https://github.com/user-attachments/assets/e69981bf-1c3a-409a-88c3-d86e65ff1317" />
+
+
+### Activity Drivers
+
+<img width="1710" height="981" alt="Screenshot 1447-11-15 at 9 49 53 PM" src="https://github.com/user-attachments/assets/178b295a-1083-4ac5-a356-d4f34da37c27" />
+
+
+### Weather Analysis
+
+<img width="1710" height="980" alt="Screenshot 1447-11-15 at 9 50 14 PM" src="https://github.com/user-attachments/assets/35556133-eb75-4c2a-8139-73b533002c84" />
+
+
+---
+
 ## 📊 Overview
 
 An interactive data-driven dashboard analyzing real-world activity patterns in **Riyadh, Saudi Arabia**, using local behavioral and environmental factors.
@@ -125,7 +142,6 @@ And present the answer in a **clear, visual, and interactive way**.
 ---
 
 Built with focus on clarity, insight, and real-world relevance.
-
 
 ---
 
